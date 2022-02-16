@@ -1,0 +1,78 @@
+{
+  "userss": [
+    {
+      "name": "dev",
+      "email": "dev@gmail.com",
+      "password": "dev",
+      "id": 1
+    },
+    {
+      "email": "black@gmail.com",
+      "password": "black",
+      "name": "black",
+      "id": 2
+    },
+    {
+      "email": "dan@gmail.com",
+      "password": "danbaba",
+      "name": "danbaba",
+      "id": 3
+    },
+    {
+      "email": "game@gmail.com",
+      "password": "game",
+      "name": "game",
+      "id": 4
+    },
+    {
+      "email": "t@gmail.com",
+      "password": "t",
+      "name": "t",
+      "id": 5
+    },
+    {
+      "email": "kaju@gmail.com",
+      "password": "kaju",
+      "name": "kaju",
+      "id": 6
+    },
+    {
+      "email": "riya@gmail.com",
+      "password": "riya",
+      "name": "riya",
+      "id": 7
+    }
+  ],
+  "restaurant": [
+    {
+      "name": "Food Cort",
+      "contact": "01010101010",
+      "address": "Law Garden,AMD",
+      "id": 1
+    },
+    {
+      "name": "devarsh chauhan",
+      "contact": "9898989898",
+      "address": "Pathika,gandhinagar",
+      "id": 2
+    },
+    {
+      "name": "KFC",
+      "contact": "98988880000",
+      "address": "Pathika,gandhinagar",
+      "id": 3
+    },
+    {
+      "name": "Mojito ",
+      "contact": "988987778",
+      "address": "Mojito AMD",
+      "id": 4
+    },
+    {
+      "name": "riya cafe",
+      "contact": "234567890",
+      "address": "riya ke gar k pass",
+      "id": 5
+    }
+  ]
+}
